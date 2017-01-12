@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[KMeansWhat?]]></title>
+        <description><![CDATA[KMeansWhat?]]></description>
+        <link>https://thegrid.ai/kmeanswhat/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 12 Jan 2017 03:09:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kmeanswhat/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 12 Jan 2017 03:09:13 GMT</pubDate>
+        <item>
+            <title><![CDATA[test]]></title>
+            <description><![CDATA[<h1>test</h1>]]></description>
+            <link>https://thegrid.ai/kmeanswhat/test/index.html</link>
+            <guid isPermaLink="false">5034cd6e-c6d9-418b-95de-b523b4231690</guid>
+            <pubDate>Thu, 12 Jan 2017 03:09:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
