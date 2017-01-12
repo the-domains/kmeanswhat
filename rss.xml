@@ -4,14 +4,22 @@
         <description><![CDATA[KMeansWhat?]]></description>
         <link>https://thegrid.ai/kmeanswhat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Jan 2017 03:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2017 03:10:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kmeanswhat/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Thu, 12 Jan 2017 03:10:23 GMT</pubDate>
+        <item>
+            <title><![CDATA[discover cool data & connect with interesting people | data.world]]></title>
+            <description><![CDATA[<article><h1>discover cool data & connect with interesting people | data.world</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/3981b1547be363e3b925df8d23155df0/noop.jpg?input=https%3A%2F%2Fd2ogkq1rg66kh0.cloudfront.net%2Fsite-resources%2Fimages%2Ffb-image-share.7b15f964.jpg"></article>]]></description>
+            <link>https://data.world</link>
+            <guid isPermaLink="false">387ccf41-001b-48bf-b642-34753ee61337</guid>
+            <pubDate>Thu, 12 Jan 2017 03:10:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[test]]></title>
             <description><![CDATA[<h1>test</h1>]]></description>
             <link>https://thegrid.ai/kmeanswhat/test/index.html</link>
             <guid isPermaLink="false">5034cd6e-c6d9-418b-95de-b523b4231690</guid>
-            <pubDate>Thu, 12 Jan 2017 03:09:10 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2017 03:09:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
