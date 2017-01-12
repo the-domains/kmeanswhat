@@ -1,0 +1,20 @@
+typography_spectrum: 0.048313794657588005
+color:
+  brandStrength: 0.18027780344709754
+  lightness: 0.23333104699850082
+  saturation: 0.8478493366856128
+  rhythmicContrast: 0.6077701598405838
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+github: true
+layout_spectrum: 0.592907334677875
+author:
+  name: John Roberts
+name: KMeansWhat?
+title: KMeansWhat?
+content: []
+description: Journal of a Machine Learning Learner
