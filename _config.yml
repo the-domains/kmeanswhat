@@ -15,6 +15,10 @@ layout_spectrum: 0.592907334677875
 author:
   name: John Roberts
 name: KMeansWhat?
+navigation:
+  - name: Linear Digressions Podcast
+    url: 'http://lineardigressions.com/'
+    type: external
 title: KMeansWhat?
 content: []
 description: Journal of a Machine Learning Learner
