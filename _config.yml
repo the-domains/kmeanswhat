@@ -19,6 +19,9 @@ navigation:
   - name: Linear Digressions Podcast
     url: 'http://lineardigressions.com/'
     type: external
+  - name: test
+    id: 5034cd6e-c6d9-418b-95de-b523b4231690
+    type: content
 title: KMeansWhat?
 content: []
 description: Journal of a Machine Learning Learner
